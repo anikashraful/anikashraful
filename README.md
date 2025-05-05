@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm anik_ashraful!👋
 
-<!--
-**anikashraful/anikashraful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🌱 Currently i am doing my Bachelor in Computer Science and Engineering
+- 🔭 Started practicing Python with Google Collab
+- 🌱 Exploring data science and scientific computing.
 
-Here are some ideas to get you started:
+## 📚 Projects
+- **[NumPy-Practice](https://github.com/anikashraful/NumPy-Practice)**: My repository with NumPy exercises, including array operations and matrix computations.
+- *More projects coming soon!*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📝 Latest Work
+- Completed NumPy array slicing exercises in [NumPy_Practice.ipynb](https://github.com/anikashraful/NumPy-Practice/blob/main/NumPy_Practice.ipynb).
+- Working on a dataset analysis project with NumPy.
+
+*Check out my repositories for more!*
