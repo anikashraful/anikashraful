@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 🌱 Currently i am doing my Bachelor in Computer Science and Engineering
 - 🔭 Started practicing Python with Google Collab
-- 🌱 Exploring data science and scientific computing.
+- 🌱 Exploring Data Science and AI/ML .
 
 ## 📚 Projects
 - **[NumPy-Practice](https://github.com/anikashraful/NumPy-Practice)**: My repository with NumPy exercises, including array operations and matrix computations.
